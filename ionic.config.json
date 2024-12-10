@@ -1,0 +1,7 @@
+{
+  "name": "LockersDuoc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
